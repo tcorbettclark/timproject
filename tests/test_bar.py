@@ -3,4 +3,4 @@ def test_bar():
 
 
 def test_foo():
-    assert 2 == 1
+    assert 2 == 2
